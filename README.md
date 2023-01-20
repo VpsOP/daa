@@ -1,2 +1,2 @@
 ## Designing and Analysisi of Algorithms
-Collection of codes written for the DAA subject in Sem-IV
+Collection of algorithms written for the DAA subject taught in Sem-IV
