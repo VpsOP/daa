@@ -5,9 +5,9 @@ void swap(int*, int*);
 
 void main()
 {
-	clrscr();
 	int arr[50], size, tmp, minidx, i, j;
-
+	clrscr();
+	
 	// Take the input of the array
 	printf("Enter the number of elements: ");
 	scanf("%d", &size);
